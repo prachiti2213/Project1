@@ -1,4 +1,4 @@
-<h1> DIP LAB MINI PROJECT </h1>
+<h1> Prachiti LAB MINI PROJECT </h1>
 
 <h2> Topic: License Plate Detection Using C++ </h2>
 
